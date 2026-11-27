@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4050492211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35151eae0151d1d2246dedc39917ad21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4587ef6f95f03cd9eb1b5942fca4ec1a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35151eae0151d1d2246dedc39917ad21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Learn_AssetsBundle/Sphere.prefab
+- Assets/Learn_AssetsBundle/Cube.prefab
+Dependencies:
+- G:/UGit/2DTest/AssetBundles/PC/image

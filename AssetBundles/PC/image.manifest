@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1879260384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7798ec3265a11e9080d6c16a5a9c2b52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b90360021f95c293bf3f1bef88434a62
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7798ec3265a11e9080d6c16a5a9c2b52
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Learn_AssetsBundle/Resources/im.png
+- Assets/Learn_AssetsBundle/Red.mat
+Dependencies: []
